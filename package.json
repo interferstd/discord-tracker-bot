@@ -1,0 +1,16 @@
+{
+  "name": "discord-tracker-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/interferstd/discord-tracker-bot.git",
+  "author": "Alex Zaver <zaverclub@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  }
+}
